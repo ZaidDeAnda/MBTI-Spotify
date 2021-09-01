@@ -6,7 +6,7 @@ import numpy as np
 
 client_id="e88fcc8e9e7f460282e4e2cc9b1c9816"
 client_secret="0b12644ce9ff486187c6c4a595692de6"
-redirect_uri="http://127.0.0.1:5000/callback/"
+redirect_uri="https://example.com/callback"
 scope="user-top-read"
 
 ids=[]
